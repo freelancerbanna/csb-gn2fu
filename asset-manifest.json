@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://freelancerbanna.github.io/csb-gn2fu/static/css/main.3a35f69d.chunk.css",
+    "main.js": "https://freelancerbanna.github.io/csb-gn2fu/static/js/main.2eb95bde.chunk.js",
+    "main.js.map": "https://freelancerbanna.github.io/csb-gn2fu/static/js/main.2eb95bde.chunk.js.map",
+    "runtime-main.js": "https://freelancerbanna.github.io/csb-gn2fu/static/js/runtime-main.2e664d3b.js",
+    "runtime-main.js.map": "https://freelancerbanna.github.io/csb-gn2fu/static/js/runtime-main.2e664d3b.js.map",
+    "static/js/2.222a17bf.chunk.js": "https://freelancerbanna.github.io/csb-gn2fu/static/js/2.222a17bf.chunk.js",
+    "static/js/2.222a17bf.chunk.js.map": "https://freelancerbanna.github.io/csb-gn2fu/static/js/2.222a17bf.chunk.js.map",
+    "index.html": "https://freelancerbanna.github.io/csb-gn2fu/index.html",
+    "static/css/main.3a35f69d.chunk.css.map": "https://freelancerbanna.github.io/csb-gn2fu/static/css/main.3a35f69d.chunk.css.map",
+    "static/js/2.222a17bf.chunk.js.LICENSE.txt": "https://freelancerbanna.github.io/csb-gn2fu/static/js/2.222a17bf.chunk.js.LICENSE.txt",
+    "static/media/Hero.1fbe26e9.jpeg": "https://freelancerbanna.github.io/csb-gn2fu/static/media/Hero.1fbe26e9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e664d3b.js",
+    "static/js/2.222a17bf.chunk.js",
+    "static/css/main.3a35f69d.chunk.css",
+    "static/js/main.2eb95bde.chunk.js"
+  ]
+}
